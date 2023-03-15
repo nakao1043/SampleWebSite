@@ -6,3 +6,7 @@ h1{
 .normalFont{
     color: black;
 }
+
+#msgArea{
+    background-color: yellow;
+}
